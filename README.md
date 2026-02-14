@@ -27,7 +27,7 @@ Este projeto é uma **calculadora de média ponderada** desenvolvida em Python c
 | ✅ **Tratamento de exceções** | Captura entradas não numéricas | Implementado |
 | ✅ **Loop inteligente** | Continua pedindo até receber dados válidos | Implementado |
 | ✅ **Média ponderada** | Calcula com pesos 2, 3 e 5 | Implementado |
-| ✅ **Feedback visual** | Emojis e formatação clara | Implementado |
+| ✅ **Feedback visual** | formatação clara | Implementado |
 | 🚀 **Histórico de tentativas** | Mostra quantas vezes o usuário tentou | Planejado |
 | 🚀 **Exportar resultado** | Salvar nota final em arquivo .txt | Planejado |
 
