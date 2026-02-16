@@ -3,7 +3,6 @@
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-finalizado-brightgreen.svg)
 
 </div>
